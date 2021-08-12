@@ -15,6 +15,7 @@
 		37F1B98726C4B64300A82945 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37F1B98526C4B64300A82945 /* LaunchScreen.storyboard */; };
 		37F1B99226C4B64400A82945 /* MagicPaperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F1B99126C4B64400A82945 /* MagicPaperTests.swift */; };
 		37F1B99D26C4B64400A82945 /* MagicPaperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F1B99C26C4B64400A82945 /* MagicPaperUITests.swift */; };
+		37F1B9AB26C4B70D00A82945 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 37F1B9AA26C4B70D00A82945 /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		37F1B99826C4B64400A82945 /* MagicPaperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MagicPaperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37F1B99C26C4B64400A82945 /* MagicPaperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagicPaperUITests.swift; sourceTree = "<group>"; };
 		37F1B99E26C4B64400A82945 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37F1B9AA26C4B70D00A82945 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				37F1B98326C4B64300A82945 /* Assets.xcassets */,
 				37F1B98526C4B64300A82945 /* LaunchScreen.storyboard */,
 				37F1B98826C4B64300A82945 /* Info.plist */,
+				37F1B9AA26C4B70D00A82945 /* harrypotter.mp4 */,
 			);
 			path = MagicPaper;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				37F1B97D26C4B64000A82945 /* art.scnassets in Resources */,
 				37F1B98726C4B64300A82945 /* LaunchScreen.storyboard in Resources */,
+				37F1B9AB26C4B70D00A82945 /* harrypotter.mp4 in Resources */,
 				37F1B98426C4B64300A82945 /* Assets.xcassets in Resources */,
 				37F1B98226C4B64000A82945 /* Main.storyboard in Resources */,
 			);
